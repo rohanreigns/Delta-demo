@@ -1,3 +1,3 @@
 # Delta-demo
 Demo repo created
-author - Rohan
+author - Rohan Silvester
